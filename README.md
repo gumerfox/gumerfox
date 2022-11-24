@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gumerfox
+- 👀 I’m interested in frontend and backend
+- 🌱 I’m currently studying react js
+- 📫 How to reach me: gumerov.vasil@gmail.com
